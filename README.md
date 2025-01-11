@@ -6,11 +6,13 @@ I’m a **Mobile Application Developer** (Dart + Flutter) and **Web Developer** 
 ---
 
 ## 💼 Currently Working At
-I’m currently working at [**Flexible-IT Solutions**](https://www.iflex-solutions.com/).
+I’m currently working as Flutter Developer at [**Flexible-IT Solutions**](https://www.iflex-solutions.com/).
 
 ![Flexible-IT Solutions Logo](https://www.iflex-solutions.com/public/images/media/LogoFinal.png)
 
 ---
+
+
 
 ## 🔧 Technologies & Tools
 - **Languages**: Dart, JavaScript, SQL
@@ -18,6 +20,9 @@ I’m currently working at [**Flexible-IT Solutions**](https://www.iflex-solutio
 - **Other Skills**: Front-End Development, Mobile App Development
 
 ---
+
+
+
 
 ## 🌟 My Project
 ### 🚀 [Ask Educator Organization Website]
@@ -27,6 +32,8 @@ This website provides a general overview of the **Ask Educator Organization**. I
 - **Repository**: Private (Not Available)
 
 ---
+
+
 
 ## 📫 Let's Connect
 - Email: [omarsorany188@gmail.com](mailto:omarsorany188@gmail.com)
