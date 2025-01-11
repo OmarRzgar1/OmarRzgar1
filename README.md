@@ -26,11 +26,22 @@ I’m currently working as Flutter Developer at [**Flexible-IT Solutions**](http
 ---
 
 ## 🌟 My Project
+
 ### 🚀 [Ask Educator Organization Website](https://your-live-website-link.com)
+
 This website provides a general overview of the **Ask Educator Organization**. It showcases the organization's **vision, mission, values**, and **working areas** while offering users easy ways to **contact** the organization.
 
 - **Technologies Used**: Flutter, Firebase, Responsive Design, npm
-- **Repository**: Private (Not Available)
+- **Live Website**: [Ask Educator Organization Website](https://your-live-website-link.com)
+
+![Ask Educator Organization Logo](https://link-to-your-website-logo.com)
+
+---
+
+## 📫 Let's Connect
+- Email: [omarsorany188@gmail.com](mailto:omarsorany188@gmail.com)
+- Phone: +964 07508691483
+
 
 <br>
 
