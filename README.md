@@ -4,7 +4,8 @@
 I’m a **Mobile Application Developer** (Dart + Flutter) and **Web Developer** (Front-End). I specialize in creating responsive, user-friendly mobile and web applications using technologies like Flutter, Firebase, and SQL. I graduated from the **Information Systems Engineering** department at **Erbil Polytechnic University** ([Website](https://epu.edu.iq/)).
 
 <br>
-![pie](https://github.com/user-attachments/assets/8c444cd6-cf91-4439-afa5-8ec9824e04d7)
+
+![Pie Chart](https://user-images.githubusercontent.com/your-username/repository-name/pie-chart.png)
 
 ---
 
@@ -36,12 +37,6 @@ This website provides a general overview of the **Ask Educator Organization**. I
 - **Live Website**: [Ask Educator Organization Website](https://your-live-website-link.com)
 
 ![Ask Educator Organization Logo](https://link-to-your-website-logo.com)
-
----
-
-
-
-<br>
 
 ---
 
