@@ -1,8 +1,11 @@
+
+https://img.shields.io/badge/Flutter-darkblue?style=flat&logo=flutter&logoColor=%2302569B&logoSize=auto
+
 ## Hi there 👋
 
 <!--
 **OmarRzgar1/OmarRzgar1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-https://img.shields.io/badge/Flutter-darkblue?style=flat&logo=flutter&logoColor=%2302569B&logoSize=auto
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
