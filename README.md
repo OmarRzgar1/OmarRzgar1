@@ -5,7 +5,7 @@ I’m a **Mobile Application Developer** (Dart + Flutter) and **Web Developer** 
 
 <br>
 
-![Pie Chart](https://user-images.githubusercontent.com/your-username/repository-name/pie-chart.png)
+![Pie Chart](https://github.com/OmarRzgar1/OmarRzgar1/issues/1#issue-2781983250)
 
 ---
 
