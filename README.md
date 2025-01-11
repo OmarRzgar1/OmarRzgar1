@@ -5,7 +5,7 @@ I’m a **Mobile Application Developer** (Dart + Flutter) and **Web Developer** 
 
 <br>
 
-![Pie Chart](https://github.com/OmarRzgar1/OmarRzgar1/issues/2#issue-2781992869)
+![Pie Chart](https://private-user-images.githubusercontent.com/93724805/402276244-cf50f1e2-ee4a-46f9-b60a-739ee2028df5.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzY2MTIzOTAsIm5iZiI6MTczNjYxMjA5MCwicGF0aCI6Ii85MzcyNDgwNS80MDIyNzYyNDQtY2Y1MGYxZTItZWU0YS00NmY5LWI2MGEtNzM5ZWUyMDI4ZGY1LmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAxMTElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMTExVDE2MTQ1MFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTY5MTE3ODIyNWNkNTMyZjRlYTRhZDBkMjBhMmFjYTdkMTg2YzBmMzg1MzAzMzA4Y2ZkZTRhOWVhZWI2MDVlYzUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.jPwfd0bh7EHQqWjW6B7hBXFTfN-rBFdnNVymb_StePg)
 
 ---
 
