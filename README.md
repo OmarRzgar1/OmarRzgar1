@@ -1,7 +1,14 @@
 # Hi, I'm Omar Rzgar Rasheed 👋
 
 ## About Me
-I’m a **Mobile Application Developer** (Dart + Flutter) and **Web Developer** (Front-End). I specialize in creating responsive, user-friendly mobile and web applications using technologies like Flutter, Firebase, and SQL.
+I’m a **Mobile Application Developer** (Dart + Flutter) and **Web Developer** (Front-End). I specialize in creating responsive, user-friendly mobile and web applications using technologies like Flutter, Firebase, and SQL. I graduated from the **Information Systems Engineering** department at **Erbil Polytechnic University** ([Website](https://epu.edu.iq/)).
+
+---
+
+## 💼 Currently Working At
+I’m currently working at [**Flexible-IT Solutions**](https://www.iflex-solutions.com/).
+
+![Flexible-IT Solutions Logo](https://www.iflex-solutions.com/public/images/media/LogoFinal.png)
 
 ---
 
