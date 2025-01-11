@@ -38,9 +38,6 @@ This website provides a general overview of the **Ask Educator Organization**. I
 
 ---
 
-## 📫 Let's Connect
-- Email: [omarsorany188@gmail.com](mailto:omarsorany188@gmail.com)
-- Phone: +964 07508691483
 
 
 <br>
