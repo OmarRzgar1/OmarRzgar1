@@ -34,7 +34,7 @@ I’m currently working as Flutter Developer at [**Flexible-IT Solutions**](http
 This website provides a general overview of the **Ask Educator Organization**. It showcases the organization's **vision, mission, values**, and **working areas** while offering users easy ways to **contact** the organization.
 
 - **Technologies Used**: Flutter, Firebase, Responsive Design, npm
-- **Live Website**: [Ask Educator Organization Website](https://your-live-website-link.com)
+- **Live Website**: [Ask Educator Organization Website](https://askeducatorngo.org/)
 
 ![Ask Educator Organization Logo](https://link-to-your-website-logo.com)
 
