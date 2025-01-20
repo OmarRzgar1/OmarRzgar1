@@ -36,7 +36,7 @@ This website provides a general overview of the **Ask Educator Organization**. I
 - **Technologies Used**: Flutter, Firebase, Responsive Design, npm
 - **Live Website**: [Ask Educator Organization Website](https://askeducatorngo.org/)
 
-![Ask Educator Organization Logo](https://link-to-your-website-logo.com)
+![Ask Educator Organization Logo](https://github.com/OmarRzgar1/OmarRzgar1/issues/3)
 
 ---
 
