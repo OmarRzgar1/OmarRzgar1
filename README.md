@@ -25,7 +25,7 @@ I’m currently working as Flutter Developer at [**Flexible-IT Solutions**](http
 
 ---
 
-## 🌟 My Project
+## 🌟 My Projects
 
 ### 🚀 [Ask Educator Organization Website](https://your-live-website-link.com)
 
