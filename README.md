@@ -5,8 +5,6 @@ I’m a **Mobile Application Developer** (Dart + Flutter) and **Web Developer** 
 
 <br>
 
-![Pie Chart](https://private-user-images.githubusercontent.com/93724805/402276244-cf50f1e2-ee4a-46f9-b60a-739ee2028df5.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzY2MTIzOTAsIm5iZiI6MTczNjYxMjA5MCwicGF0aCI6Ii85MzcyNDgwNS80MDIyNzYyNDQtY2Y1MGYxZTItZWU0YS00NmY5LWI2MGEtNzM5ZWUyMDI4ZGY1LmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAxMTElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMTExVDE2MTQ1MFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTY5MTE3ODIyNWNkNTMyZjRlYTRhZDBkMjBhMmFjYTdkMTg2YzBmMzg1MzAzMzA4Y2ZkZTRhOWVhZWI2MDVlYzUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.jPwfd0bh7EHQqWjW6B7hBXFTfN-rBFdnNVymb_StePg)
-
 ---
 
 ## 💼 Currently Working At
@@ -36,7 +34,6 @@ This website provides a general overview of the **Ask Educator Organization**. I
 - **Technologies Used**: Flutter, Firebase, Responsive Design, npm
 - **Live Website**: [Ask Educator Organization Website](https://askeducatorngo.org/)
 
-<img src="https://private-user-images.githubusercontent.com/93724805/404780193-7fd3d842-e9fd-4f75-86d3-21eee89a3fac.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzczNTg2NTAsIm5iZiI6MTczNzM1ODM1MCwicGF0aCI6Ii85MzcyNDgwNS80MDQ3ODAxOTMtN2ZkM2Q4NDItZTlmZC00Zjc1LTg2ZDMtMjFlZWU4OWEzZmFjLmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAxMjAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMTIwVDA3MzIzMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWQ3ZTNiZTQxNDEzNjEwNTBiNmEzNDA4OTczZDA3M2Q5YTU2YzcyMzQyNGRmZGExYmE5MjM3NDEyZTIyMTdlNTgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.YUnPCHA6VGL1CYLdaUeK5-ERfnhN3YsIP_EyoVO4_Hc" alt="Ask Educator Organization Logo" width="300"/>
 ---
 
 ## 📫 Let's Connect
