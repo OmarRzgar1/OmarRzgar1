@@ -7,10 +7,9 @@ I’m a **Mobile Application Developer** (Dart + Flutter) and **Web Developer** 
 
 ---
 
-## 💼 Currently Working At
-I’m currently working as Flutter Developer at [**Flexible-IT Solutions**](https://www.iflex-solutions.com/).
+## 💼 Work Exprience 
+GPS Engineer at  [**Flexible-IT Solutions**](https://www.iflex-solutions.com/).
 
-![Flexible-IT Solutions Logo](https://www.iflex-solutions.com/public/images/media/LogoFinal.png)
 
 <br>
 
