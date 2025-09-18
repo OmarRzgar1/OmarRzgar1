@@ -7,8 +7,7 @@ I’m a **Mobile Application Developer** (Dart + Flutter) and **Web Developer** 
 
 ---
 
-## 💼 Work Exprience 
-GPS Engineer at  [**Flexible-IT Solutions**](https://www.iflex-solutions.com/).
+
 
 
 <br>
